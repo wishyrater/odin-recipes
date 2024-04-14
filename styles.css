@@ -1,0 +1,27 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+    background-color: beige;
+}
+
+h1 {
+    font-size: 32px;
+    color: brown;
+}
+
+#one {
+    background-color: bisque;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#two {
+    background-color: darkolivegreen;
+}
+
+.three {
+    color: blueviolet;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
